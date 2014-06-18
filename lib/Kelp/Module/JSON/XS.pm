@@ -28,6 +28,12 @@ __END__
 
 Kelp::Module::JSON::XS - JSON:XS module for Kelp applications
 
+=head1 DEPRECATED
+
+*** This module is now deprecated. ***
+Beginning with version 2.0 of the JSON module, when both JSON and
+JSON::XS are installed, then JSON will fall back on JSON::XS
+
 =head1 SYNOPSIS
 
     package MyApp;
