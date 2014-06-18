@@ -3,7 +3,7 @@ use Kelp::Base 'Kelp::Module';
 use JSON::XS;
 use Carp;
 
-our $VERSION = 0.501;
+our $VERSION = 0.502;
 
 sub build {
     my ( $self, %args ) = @_;
